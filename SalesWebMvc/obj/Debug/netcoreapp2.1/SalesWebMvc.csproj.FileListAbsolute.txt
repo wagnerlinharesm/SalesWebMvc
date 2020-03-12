@@ -32,4 +32,3 @@ D:\OneDrive\Desenvolvimento\C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\S
 D:\OneDrive\Desenvolvimento\C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
 D:\OneDrive\Desenvolvimento\C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 D:\OneDrive\Desenvolvimento\C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
-D:\OneDrive\Desenvolvimento\C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
